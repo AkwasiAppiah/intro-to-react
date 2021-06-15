@@ -1,0 +1,18 @@
+{
+  "name": "76302",
+  "version": "0.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "license": "CC-BY-NC-ND-4.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "serve": "^11.2.0"
+  },
+  "description": null,
+  "dependencies": {}
+}
